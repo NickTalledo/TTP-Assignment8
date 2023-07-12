@@ -6,7 +6,7 @@
 
 ![GET 'booksID'](https://github.com/NickTalledo/TTP-Assignment8/assets/100735807/5860182d-8559-4a6b-b56f-356b63c15112)
 
-![PATCH 'booksID'](https://github.com/NickTalledo/TTP-Assignment8/assets/100735807/da7a70ab-2b26-4278-900e-f1e2a48035d4)
+![PATCH 'booksID'](https://github.com/NickTalledo/TTP-Assignment8/assets/100735807/ae0362d2-81e5-441d-960c-7ca712ee2af6)
 
 ![POST 'books'](https://github.com/NickTalledo/TTP-Assignment8/assets/100735807/22d5f015-404c-4dc7-ae9f-31e5c95da87d)
 
